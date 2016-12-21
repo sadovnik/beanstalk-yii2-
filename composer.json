@@ -1,5 +1,5 @@
 {
-    "name": "sadonvik/beanstalk-yii2",
+    "name": "sadovnik/beanstalk-yii2",
     "type": "library",
     "description": "Beanstalk component for Yii Framework 2",
     "keywords": ["beanstalk","queries", "yii2"],

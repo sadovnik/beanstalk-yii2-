@@ -1,7 +1,9 @@
+> This is a temporary fork of https://github.com/sergebezborodov/beanstalk-yii2
+
 #Beanstalk Worker App for Yii2
 
 ## What is it?
-Queries is important part for any big project. I used Gearman for years in my past projects and when I started develop hotwork.ru I read a lot of articles about different query system. Finnaly I chosed beanstalk - It was inspired by memcache protocol, it's simple, fast and stable. Beanstalk works at my server more than three month without restarting. For rabbitmq it will be unbelievable. 
+Queries is important part for any big project. I used Gearman for years in my past projects and when I started develop hotwork.ru I read a lot of articles about different query system. Finnaly I chosed beanstalk - It was inspired by memcache protocol, it's simple, fast and stable. Beanstalk works at my server more than three month without restarting. For rabbitmq it will be unbelievable.
 
 ## How to install
 
